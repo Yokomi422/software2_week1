@@ -1,0 +1,7 @@
+the test sample is not negative. 
+配列で実装するのがいい.
+
+RLEはランレングスの略
+B3/S23が the standard rule.
+
+ 
